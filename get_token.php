@@ -1,10 +1,4 @@
 <?php
-/*
-"public_key": "pk_sandbox_c24dc55e4d07719b80c0916ce8a28e4dbf6a048f",
-"secret_key": "sk_sandbox_ea7865b84b0f4b762bd2d934ad1f750b84b5a3ba"
-url: https://connect-sandbox.ticketguardian.net/api/v2/auth/token/
-token : kfopajfopsdfjkdsfjdfjpo
-*/
 
 $token='';
 
